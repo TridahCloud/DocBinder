@@ -46,3 +46,5 @@
     <script src="assets/js/theme.js"></script>
 </body>
 </html>
+
+<script src="https://tridah.cloud/tridah-widget.js"></script>
